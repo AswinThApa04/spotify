@@ -7,7 +7,8 @@ It features a music player, album display, song navigation, and a smooth user ex
 
 ## 🚀 Features
 
-- Modern and responsive UI inspired by Spotify
+- Modern and responsive UI inspired by Spotify![Screenshot 2025-04-27 185549](https://github.com/user-attachments/assets/fd02186c-5cb1-466e-8d42-1daf9965fe77)
+
 - Play, pause, next, previous, shuffle, and loop functionalities
 - Browse albums and songs
 - Responsive sidebar and navigation bar
@@ -29,4 +30,5 @@ It features a music player, album display, song navigation, and a smooth user ex
 
 ## 📸 Screenshots
 ![Screenshot 2025-04-27 185428](https://github.com/user-attachments/assets/59c7763d-c485-41b8-9036-e7bfaa569a40)
+![Screenshot 2025-04-27 185549](https://github.com/user-attachments/assets/ec6dcc1f-8fcc-4655-9446-b4e1d9cb1247)
 
