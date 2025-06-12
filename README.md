@@ -22,6 +22,8 @@ It features a music player, album display, song navigation, and a smooth user ex
 - **React** (with Hooks and Context API)
 - **Vite** (development and build tool)
 - **Tailwind CSS** (utility-first CSS framework)
+  Command used i) npm install -D tailwindcss@3.4.3 postcss autoprefixer
+  ii)npx tailwindcss init -p
 - **JavaScript** and **JSX**
 - **HTML5** and **CSS3**
 
